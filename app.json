@@ -1,6 +1,6 @@
 {
-  "name": "suhail-whatsapp-bot@1.0.1",
-  "description": "I am Suhail-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "name": "Casper-whatsapp-bot@1.0.1",
+  "description": "I am Casper-Tech-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://youtube.com/@casper.tech.254?si=AWMvkmB2lLxUAJzJ",
  "logo":"https://telegra.ph/file/9dcef2b49909742db8dbd.jpg",
  
   "old__logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
@@ -11,14 +11,14 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail-X",
+      "value": "Casper-Tech-X",
       "required" :true
     },   
      
     "CAN_WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
       "value": "true",
-      "required" :false
+      "required" :true
     },
      
     "CAN_GOODBYE": {
@@ -29,12 +29,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "Suhail-X-Md"
+      "value": "Casper-X-Md"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Nairobi/Kenya"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -67,7 +67,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "254732982940"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -95,8 +95,8 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
-      "required": false 
+      "value": "Casper Md",
+      "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
