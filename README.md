@@ -1,6 +1,6 @@
-# SUHAIL-X (V2)
+# CASPER-X (V2)
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/GTs9FqR/172823835124749sgruwe.jpg"></a>
 
 
   <p align="center">
@@ -26,9 +26,9 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{SUHAILMD-2.0}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
 
 
-  <p align="center"> Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet CASPER-TECH-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/fork"><img title="SUHAIL-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/fork"><img title="CASPER-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -40,7 +40,7 @@
 1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
-3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/SuhailTechInfo/suhailmd-2.0/fork)***
+3.  ***`Star ⭐` repository & Click [`FORK`]([https://github.com/SuhailTechInfo/suhailmd-2.0/fork](https://github.com/Traby-qriz/suhailmd-2.0/fork))***
    
 4.  #### DEPLOY IN HEROKU 
 
@@ -110,27 +110,26 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SuhailTechInfo/suhailmd-2.0
+      git clone [https://github.com/Traby-qriz/suhailmd-2.0/fork)]
       cd SUHAIL-XMD
       yarn install --network-concurrency 1 && npm install
       ```
 
-   6. Create an env file for ENV. 
-      ```
+   6. Create an env file for 
       touch config.env
       nano config.env
       ```
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="254732982940"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
       THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
-      OWNER_NAME = "Suhail"
+      OWNER_NAME = "Casper Tech kenya"
       PREFIX = .
       WARN_COUNT = 3
-      DISABLE_PM = "false"
-      THEME= "SUHAIL"
+      DISABLE_PM ="false"
+      THEME= "CASPER"
       MODE = "public"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
