@@ -1,11 +1,11 @@
 # CASPER-X (V2)
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/GTs9FqR/172823835124749sgruwe.jpg"></a>
+<a href="https://github.com/Traby-qriz"><img title="Author" src="https://i.ibb.co/GTs9FqR/172823835124749sgruwe.jpg"></a>
 
 
   <p align="center">
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
-<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SuhailTechInfo/suhailmd-2.0?color=blue&style=flat-square"></a>
+<a href="https://github.com/Traby-qriz/suhailmd-2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SuhailTechInfo/suhailmd-2.0?color=blue&style=flat-square"></a>
 <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/suhailmd-2.0?color=blue&style=flat-square"></a>
 <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/"><img title="Size" src="https://img.shields.io/github/repo-size/SuhailTechInfo/suhailmd-2.0?style=flat-square&color=green"></a>
 <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 
   <p align="center"> Meet CASPER-TECH-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/fork"><img title="CASPER-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Traby-qriz/suhailmd-2.0/fork"><img title="CASPER-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
