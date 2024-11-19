@@ -1,5 +1,5 @@
 {
-   "name": "suhail",
+   "name": "Casper",
    "version": "1.0.2",
    "status": "fixed ytdl",
    "description": "Multi device whatsapp bot.",
@@ -11,11 +11,11 @@
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name Suhail",
       "suhail": "pm2 start . --deep-monitoring --attach --name Suhail",
-      "start": "pm2 start . --attach --name Suhail",
-      "stop": "pm2 stop Suhail",
+      "start": "pm2 start . --attach --name Casper",
+      "stop": "pm2 stop Casper",
       "dbs--postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "SuhailTechInfo",
+   "author": "Casper tech Kenya",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
